@@ -1,8 +1,7 @@
 ## Diogo Oliveira
 
-**`Desenvolvedor FullStack`**
-
-Profissional em transição para a área de Quality Assurance, com background técnico em desenvolvimento web (Node.js, React e MongoDB) e vivência prévia em On-Site Support e Customer Service em empresas de tecnologia. Essa combinação me dá visão prática de todo o ciclo de desenvolvimento — desde a modelagem de dados e criação de CRUDs até a integração entre back-end e front-end — o que facilita a identificação de falhas, a elaboração de casos de teste mais precisos e a comunicação técnica com times de desenvolvimento.
+Profissional de Tecnologia da Informação com mais de 8 anos de experiência em suporte técnico, customer success especializado, gestão de incidentes e operações digitais em ambientes de alta demanda e abrangência LATAM.
+Durante minha trajetória, atuei na resolução de problemas técnicos, análise e reporte de bugs, documentação de processos, suporte a integrações e acompanhamento da jornada do usuário, desenvolvendo uma visão ampla sobre produtos digitais e experiência do cliente.
 
 
 
