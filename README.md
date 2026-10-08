@@ -96,7 +96,7 @@ Durante minha trajetória, atuei na resolução de problemas técnicos, análise
 <p align="left">
   <img 
     height="180" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=DevDos-tech&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tech-dos&theme=tokyonight&hide_border=true" 
   />
 </p>
 
